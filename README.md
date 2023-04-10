@@ -11,6 +11,7 @@ Python 3.6 or higher,
 PyTorch,
 NumPy,
 Matplotlib,
+SciKit-Learn
 
 # Usage
 To run the code, you can use the provided Google Colaboratory notebook under 'notebooks' directory. The notebook includes step-by-step instructions on how to load the dataset, preprocess the data, train the model, and evaluate its performance. It also includes the settings that we used to achieve reduced parameters for our ResNet18 model.
