@@ -7,10 +7,10 @@ The dataset used for this project is the CIFAR-10 dataset, which consists of 60,
 # Requirements
 To run the code in this repository, you will need to have the following installed:
 
-Python 3.6 or higher
-PyTorch
-NumPy
-Matplotlib
+Python 3.6 or higher,
+PyTorch,
+NumPy,
+Matplotlib,
 
 # Usage
 To run the code, you can use the provided Google Colaboratory notebook under 'notebooks' directory. The notebook includes step-by-step instructions on how to load the dataset, preprocess the data, train the model, and evaluate its performance. It also includes the settings that we used to achieve reduced parameters for our ResNet18 model.
