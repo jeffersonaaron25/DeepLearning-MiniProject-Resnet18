@@ -19,8 +19,8 @@ To run the code, you can use the provided Google Colaboratory notebook under 'no
 # Results
 Our approach resulted in a ResNet18 model with fewer parameters, while still achieving a decent accuracy on the CIFAR-10 dataset. Specifically, we were able to reduce the number of parameters from 11.2 million to 4.9 million, with a test accuracy of 89.42%.
 
-License
+# License
 This project is licensed under the terms of the MIT license.
 
-Acknowledgments
+# Acknowledgments
 The ResNet18 implementation was based on the PyTorch implementation provided in the torchvision package.
