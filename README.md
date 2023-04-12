@@ -17,7 +17,7 @@ SciKit-Learn
 To run the code, you can use the provided Google Colaboratory notebook under 'notebooks' directory. The notebook includes step-by-step instructions on how to load the dataset, preprocess the data, train the model, and evaluate its performance. It also includes the settings that we used to achieve reduced parameters for our ResNet18 model.
 
 # Results
-Our approach resulted in a ResNet18 model with fewer parameters, while still achieving a decent accuracy on the CIFAR-10 dataset. Specifically, we were able to reduce the number of parameters from 11.2 million to 4.9 million, with a test accuracy of 89.42%.
+Our approach resulted in a ResNet18 model with fewer parameters, while still achieving a decent accuracy on the CIFAR-10 dataset. Specifically, we were able to reduce the number of parameters from 11.2 million to 4 million, with a test accuracy of 91.46%.
 
 # License
 This project is licensed under the terms of the MIT license.
